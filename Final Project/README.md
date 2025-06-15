@@ -26,7 +26,7 @@ To run this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/codenameberyl/CS50P.git
+   git clone https://github.com/mchyasn/CS50-s-Introduction-to-Programming-with-Python/edit/main/Final%20Project.git
    ```
 
 2. Change into the project directory:
