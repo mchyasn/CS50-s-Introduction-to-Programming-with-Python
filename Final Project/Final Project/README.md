@@ -108,13 +108,6 @@ Choose option `5` from the menu to display a list of all stored websites and use
 1. Choose option `6` from the menu to generate a random password.
 2. The default length of the generated password is 12.
 
-## Video Demo
-
-Check out the video demonstration of the Password Manager:
-
-[![Password Manager Demo](https://i.imgur.com/BdJPV3t.png)](https://youtu.be/o0y_mwtYgnk)
-
-Click the image above or [here](https://youtu.be/o0y_mwtYgnk) to watch the demo video.
 
 ## Running Tests
 
@@ -128,6 +121,3 @@ pytest test_project.py
 
 Contributions to this project are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
